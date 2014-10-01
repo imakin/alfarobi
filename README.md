@@ -1,4 +1,6 @@
 alfarobi
 ========
 
-Humanoid robot developer team from Universitas Gadjah Mada, Indonesia. Repository maintained by one of it's developer (imakin)
+Alfarobi is humanoid robot developer team from Universitas Gadjah Mada, Indonesia. 
+
+This repository aimed to demonstrate the use of Linux operating system for embedded system development
